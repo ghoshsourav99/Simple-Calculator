@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Young+Serif&display=swap');
+html {
+  height: 100%;
+  width: 100%;
+}
+.button{
+  padding: 6px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius:6px ;
+font-size: 25px;
+  width: 50px;
+  cursor: pointer;
+}
+.row{
+  margin: 6px;
+}
+.row input{
+  margin: 0;
+  padding: 4px 32px;
+  border: 2px solid rgb(10, 10, 10);
+  border-radius: 5px;
+  font-size:14px;
+}
+.special{
+  background-color: rgb(105, 213, 243);
+}

@@ -1,0 +1,28 @@
+.text-center {
+    text-align: center;
+    font-family: 'Young Serif', serif;
+  /* font-family: 'Lobster', cursive; */
+  }
+  
+  
+  .mx-auto {
+    margin: auto;
+  }
+  
+  /* .flex{
+    display: flex ;
+  }
+  .flex-col{
+    flex-direction: column;
+  }
+  .items-center{
+    align-items: center;
+  } */
+
+  .flex{
+    display: flex ;
+    flex-direction: column;
+    align-items: center;
+  }
+
+ 
